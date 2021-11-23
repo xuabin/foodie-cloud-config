@@ -1,9 +1,9 @@
 # 数据库连接串 & 密码
 mariadb:
-	url: 'jdbc:mysql://localhost:3306/foodie-shop?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=CTT'
-	password: 'xuabin'
+ url: 'jdbc:mysql://localhost:3306/foodie-shop?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=CTT'
+ password: 'xuabin'
 
 # 功能开关 - 开启/关闭注册功能
 userservice:
-	registration:
-		disabled: true
+ registration:
+  disabled: true
